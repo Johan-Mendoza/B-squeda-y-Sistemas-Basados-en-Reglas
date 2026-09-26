@@ -2,7 +2,7 @@
 ## Cálculo de rutas en el sistema de transporte masivo
 
 **Curso:** Inteligencia Artificial
-#**Integrantes:** Johan Marcelo Mendoza Barrera y Johan David TovarAcevedo
+**Integrantes:** Johan Marcelo Mendoza Barrera y Johan David TovarAcevedo
 
 ---
 
